@@ -9,10 +9,10 @@
 <br>
 <div style="text-align: center;">
   <a href="https://github.com/merlinlcb?tab=repositories">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=merlinlcb&langs_count=10&hide_title=true&hide_border=true&layout=compact&theme=dracula">
+    <img align="center" src="stats/top-langs.svg">
   </a>
   <br>
   <a href="https://github.com/merlinlcb?tab=repositories">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=merlinlcb&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=dracula"> 
+    <img align="center" src="stats/stats.svg">
   </a>
 </div>

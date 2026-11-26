@@ -1,0 +1,52 @@
+name: README stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # weekly, Monday 06:00 UTC
+  workflow_dispatch: # manual run from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/readme-stats.yml
+      - scripts/render-stats.mjs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch github-readme-stats (pinned)
+        run: |
+          git init -q grs
+          git -C grs fetch -q --depth 1 https://github.com/anuraghazra/github-readme-stats.git 54a7985aeefda00d5eadb55b80c17c7f976c37d2
+          git -C grs checkout -q FETCH_HEAD
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install
+        run: npm ci --omit=dev --ignore-scripts --no-audit --no-fund
+        working-directory: grs
+
+      - name: Render cards
+        env:
+          PAT_1: ${{ secrets.METRICS_TOKEN }}
+        run: node scripts/render-stats.mjs grs
+
+      - name: Commit if changed
+        run: |
+          git add stats/
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "Update README stats"
+          git push
