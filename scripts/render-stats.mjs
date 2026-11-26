@@ -2,7 +2,7 @@
 // Usage: node scripts/render-stats.mjs <path-to-github-readme-stats checkout>
 // Needs PAT_1 in the environment. Exits non-zero (and writes nothing) if any card errors,
 // so a bad run never replaces the existing images.
-import { writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { pathToFileURL } from "node:url";
 
@@ -41,6 +41,7 @@ for (const card of cards) {
   }
   results.push([card.out, body]);
 }
+mkdirSync("stats", { recursive: true });
 for (const [out, body] of results) {
   writeFileSync(out, body);
   console.log(`wrote ${out} (${body.length} bytes)`);
