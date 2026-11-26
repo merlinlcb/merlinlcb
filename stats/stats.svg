@@ -1,19 +1,19 @@
 
       <svg
         width="467"
-        height="165"
-        viewBox="0 0 467 165"
+        height="195"
+        viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">merlinlcb's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 591, Total PRs: 21, Total Issues: 8, Contributed to (last year): 13</desc>
+        <title id="titleId">// signal strength, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 592, Total PRs: 21, Total Issues: 8, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ff6e96;
+            fill: #00f0ff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #f8f8f2;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #d7f7ff;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d7f7ff;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #79dafa;
+      fill: #00ff9f;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #ff6e96;
+      stroke: #ff00c8;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #ff6e96;
+      stroke: #ff00c8;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 187.06817418329354;
+        stroke-dashoffset: 187.04564542627347;
       }
     }
   
@@ -107,19 +107,33 @@
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="18"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#0b4a55"
           width="466"
-          fill="#282a36"
-          stroke-opacity="0"
+          fill="#050a14"
+          stroke-opacity="1"
         />
 
         
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >// signal strength</text>
+    </g>
+      </g>
+    
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 25)"
+          transform="translate(0, 55)"
         >
           
     <g data-testid="rank-circle"
@@ -163,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >591</text>
+      >592</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
