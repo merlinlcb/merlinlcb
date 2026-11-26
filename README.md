@@ -2,7 +2,7 @@
 
 <a href="https://merlinlcb.com"><img src="assets/banner.svg" width="100%" alt="MERLINLCB — Lehi Bennett, Systems Administrator"></a>
 
-<a href="https://merlinlcb.com"><img src="https://img.shields.io/badge/merlinlcb.com-030712?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Website"></a>&nbsp;<a href="https://www.linkedin.com/in/merlinlcb/"><img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=ff00c8" alt="LinkedIn"></a>&nbsp;<a href="https://discordapp.com/users/165947063350198272"><img src="https://img.shields.io/badge/Discord-030712?style=for-the-badge&logo=discord&logoColor=00ff9f" alt="Discord"></a>
+<a href="https://merlinlcb.com"><img src="https://img.shields.io/badge/merlinlcb.com-070d0c?style=for-the-badge&logo=googlechrome&logoColor=36d399" alt="Website"></a>&nbsp;<a href="https://www.linkedin.com/in/merlinlcb/"><img src="https://img.shields.io/badge/LinkedIn-070d0c?style=for-the-badge&logo=linkedin&logoColor=22b6c3" alt="LinkedIn"></a>&nbsp;<a href="https://discordapp.com/users/165947063350198272"><img src="https://img.shields.io/badge/Discord-070d0c?style=for-the-badge&logo=discord&logoColor=fbbf24" alt="Discord"></a>
 
 <br>
 
@@ -34,16 +34,16 @@ Off the clock I run a multi-node **Proxmox** homelab: reverse proxies, DNS, moni
 ### `>_` credentials
 
 <p>
-<a href="https://www.credly.com/badges/d91f57ad-0b97-43b3-8a77-9555ba4a5c31/public_url"><img src="https://img.shields.io/badge/CCAP-Cloud_Admin_Professional-00f0ff?style=flat-square&labelColor=030712" alt="CompTIA Cloud Admin Professional"></a>
-<a href="https://www.credly.com/badges/841f01dd-d646-4743-819e-7e53d591cddf/public_url"><img src="https://img.shields.io/badge/CSCP-Secure_Cloud_Professional-00f0ff?style=flat-square&labelColor=030712" alt="CompTIA Secure Cloud Professional"></a>
-<a href="https://www.credly.com/badges/e709af35-8564-4376-b1f3-3f57dbfa48ba/public_url"><img src="https://img.shields.io/badge/Cloud%2B-CompTIA-00f0ff?style=flat-square&labelColor=030712" alt="CompTIA Cloud+"></a>
-<a href="https://www.credly.com/badges/782aa29e-9a96-4a61-9037-efa849c2eeef/public_url"><img src="https://img.shields.io/badge/CSIS-Secure_Infrastructure_Specialist-ff00c8?style=flat-square&labelColor=030712" alt="CompTIA Secure Infrastructure Specialist"></a>
-<a href="https://www.credly.com/badges/1e2a0ec9-f1d8-43fe-bbfc-d6094352a378/public_url"><img src="https://img.shields.io/badge/Security%2B-CompTIA-ff00c8?style=flat-square&labelColor=030712" alt="CompTIA Security+"></a>
-<a href="https://www.credly.com/badges/24f29e8b-ecbe-4405-a943-48d86c45252d/public_url"><img src="https://img.shields.io/badge/CIOS-IT_Operations_Specialist-ff00c8?style=flat-square&labelColor=030712" alt="CompTIA IT Operations Specialist"></a>
-<a href="https://www.credly.com/badges/4709d799-faa3-4f71-8439-093fe2c2faaa/public_url"><img src="https://img.shields.io/badge/Network%2B-CompTIA-00ff9f?style=flat-square&labelColor=030712" alt="CompTIA Network+"></a>
-<a href="https://www.credly.com/badges/84182abf-a6db-4e1d-85f9-30a01edc1911/public_url"><img src="https://img.shields.io/badge/A%2B-CompTIA-00ff9f?style=flat-square&labelColor=030712" alt="CompTIA A+"></a>
-<a href="https://www.credly.com/badges/310834d5-0fd8-4940-a633-13f3b0192ebd/public_url"><img src="https://img.shields.io/badge/ITF%2B-CompTIA-00ff9f?style=flat-square&labelColor=030712" alt="CompTIA IT Fundamentals+"></a>
-<a href="https://www.credly.com/badges/fd9b4d50-5e18-40fe-aa25-641dd68e7a30/public_url"><img src="https://img.shields.io/badge/LFS101-Introduction_to_Linux-00ff9f?style=flat-square&labelColor=030712" alt="Linux Foundation LFS101: Introduction to Linux"></a>
+<a href="https://www.credly.com/badges/d91f57ad-0b97-43b3-8a77-9555ba4a5c31/public_url"><img src="https://img.shields.io/badge/CCAP-Cloud_Admin_Professional-22b6c3?style=flat-square&labelColor=070d0c" alt="CompTIA Cloud Admin Professional"></a>
+<a href="https://www.credly.com/badges/841f01dd-d646-4743-819e-7e53d591cddf/public_url"><img src="https://img.shields.io/badge/CSCP-Secure_Cloud_Professional-22b6c3?style=flat-square&labelColor=070d0c" alt="CompTIA Secure Cloud Professional"></a>
+<a href="https://www.credly.com/badges/e709af35-8564-4376-b1f3-3f57dbfa48ba/public_url"><img src="https://img.shields.io/badge/Cloud%2B-CompTIA-22b6c3?style=flat-square&labelColor=070d0c" alt="CompTIA Cloud+"></a>
+<a href="https://www.credly.com/badges/782aa29e-9a96-4a61-9037-efa849c2eeef/public_url"><img src="https://img.shields.io/badge/CSIS-Secure_Infrastructure_Specialist-36d399?style=flat-square&labelColor=070d0c" alt="CompTIA Secure Infrastructure Specialist"></a>
+<a href="https://www.credly.com/badges/1e2a0ec9-f1d8-43fe-bbfc-d6094352a378/public_url"><img src="https://img.shields.io/badge/Security%2B-CompTIA-36d399?style=flat-square&labelColor=070d0c" alt="CompTIA Security+"></a>
+<a href="https://www.credly.com/badges/24f29e8b-ecbe-4405-a943-48d86c45252d/public_url"><img src="https://img.shields.io/badge/CIOS-IT_Operations_Specialist-36d399?style=flat-square&labelColor=070d0c" alt="CompTIA IT Operations Specialist"></a>
+<a href="https://www.credly.com/badges/4709d799-faa3-4f71-8439-093fe2c2faaa/public_url"><img src="https://img.shields.io/badge/Network%2B-CompTIA-fbbf24?style=flat-square&labelColor=070d0c" alt="CompTIA Network+"></a>
+<a href="https://www.credly.com/badges/84182abf-a6db-4e1d-85f9-30a01edc1911/public_url"><img src="https://img.shields.io/badge/A%2B-CompTIA-fbbf24?style=flat-square&labelColor=070d0c" alt="CompTIA A+"></a>
+<a href="https://www.credly.com/badges/310834d5-0fd8-4940-a633-13f3b0192ebd/public_url"><img src="https://img.shields.io/badge/ITF%2B-CompTIA-fbbf24?style=flat-square&labelColor=070d0c" alt="CompTIA IT Fundamentals+"></a>
+<a href="https://www.credly.com/badges/fd9b4d50-5e18-40fe-aa25-641dd68e7a30/public_url"><img src="https://img.shields.io/badge/LFS101-Introduction_to_Linux-fbbf24?style=flat-square&labelColor=070d0c" alt="Linux Foundation LFS101: Introduction to Linux"></a>
 </p>
 
 <sub>Every badge links to its Credly verification.</sub>
@@ -60,8 +60,7 @@ Off the clock I run a multi-node **Proxmox** homelab: reverse proxies, DNS, moni
 
 <div align="center">
 
-<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/stats.svg" height="172" alt="GitHub stats"></a>
-<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/top-langs.svg" height="172" alt="Top languages"></a>
+<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/stats.svg" height="172" alt="GitHub stats"></a>&nbsp;<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/top-langs.svg" height="172" alt="Top languages"></a>
 
 <sub><code>// signal refreshed weekly by GitHub Actions · end of transmission</code></sub>
 

@@ -14,12 +14,12 @@ const cards = [
   {
     out: "stats/top-langs.svg",
     handler: await load("api/top-langs.js"),
-    query: { username: "merlinlcb", langs_count: "10", hide: "autohotkey", layout: "compact", custom_title: "// languages", card_width: "360", bg_color: "050a14", title_color: "00f0ff", text_color: "d7f7ff", icon_color: "00ff9f", ring_color: "ff00c8", border_color: "0b4a55", border_radius: "18" },
+    query: { username: "merlinlcb", langs_count: "10", hide: "autohotkey", layout: "compact", custom_title: "// languages", card_width: "360", bg_color: "0e1614", title_color: "36d399", text_color: "f0f5f2", icon_color: "22b6c3", ring_color: "36d399", border_color: "202c29", border_radius: "18" },
   },
   {
     out: "stats/stats.svg",
     handler: await load("api/index.js"),
-    query: { username: "merlinlcb", show_icons: "true", custom_title: "// signal strength", bg_color: "050a14", title_color: "00f0ff", text_color: "d7f7ff", icon_color: "00ff9f", ring_color: "ff00c8", border_color: "0b4a55", border_radius: "18" },
+    query: { username: "merlinlcb", show_icons: "true", custom_title: "// signal strength", bg_color: "0e1614", title_color: "36d399", text_color: "f0f5f2", icon_color: "22b6c3", ring_color: "36d399", border_color: "202c29", border_radius: "18" },
   },
 ];
 
