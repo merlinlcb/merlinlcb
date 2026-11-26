@@ -60,8 +60,8 @@ Off the clock I run a multi-node **Proxmox** homelab: reverse proxies, DNS, moni
 
 <div align="center">
 
-<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/stats.svg" height="195" alt="GitHub stats"></a>
-<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/top-langs.svg" height="195" alt="Top languages"></a>
+<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/stats.svg" height="172" alt="GitHub stats"></a>
+<a href="https://github.com/merlinlcb?tab=repositories"><img src="stats/top-langs.svg" height="172" alt="Top languages"></a>
 
 <sub><code>// signal refreshed weekly by GitHub Actions · end of transmission</code></sub>
 
