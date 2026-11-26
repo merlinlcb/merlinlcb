@@ -13,6 +13,6 @@
   </a>
   <br>
   <a href="https://github.com/merlinlcb?tab=repositories">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=merlinlcb&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=dracula">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=merlinlcb&hide_border=true&hide_title=true&show_icons=true&count_private=true&theme=dracula"> 
   </a>
 </div>
