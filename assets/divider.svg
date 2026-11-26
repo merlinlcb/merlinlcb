@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="18" viewBox="0 0 1200 18" aria-hidden="true">
+<style>.dot{animation:run 6s linear infinite}@keyframes run{from{transform:translateX(0)}to{transform:translateX(1200px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}.cover{display:none}}</style>
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".2" stop-color="#00f0ff"/><stop offset=".5" stop-color="#ff00c8"/><stop offset=".8" stop-color="#00ff9f"/><stop offset="1" stop-color="#00ff9f" stop-opacity="0"/></linearGradient>
+  <filter id="g" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="0" y="8" width="1200" height="2" fill="url(#l)" opacity=".5"/>
+<rect x="0" y="7" width="1200" height="4" fill="url(#l)" opacity=".5" filter="url(#g)"/>
+<circle class="dot" cx="0" cy="9" r="3" fill="#fff" filter="url(#g)"/><circle class="dot" cx="0" cy="9" r="1.6" fill="#fff"/>
+</svg>
